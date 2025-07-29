@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +29,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
