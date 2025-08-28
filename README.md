@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0498-diagonal-traverse](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1036-rotting-oranges) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0217-contains-duplicate) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1036-rotting-oranges) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
 | ------- |
