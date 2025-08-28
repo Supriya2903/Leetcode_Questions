@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -82,4 +84,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
