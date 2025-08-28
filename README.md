@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0498-diagonal-traverse](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
+| [1036-rotting-oranges](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,8 +59,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
+| [1036-rotting-oranges](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
