@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0242-valid-anagram) |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0217-contains-duplicate) |
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1250-longest-common-subsequence) |
