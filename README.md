@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1250-longest-common-subsequence) |
 ## Prefix Sum
 |  |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0242-valid-anagram) |
+| [0516-longest-palindromic-subsequence](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1250-longest-common-subsequence) |
 ## Linked List
 |  |
