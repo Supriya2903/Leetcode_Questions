@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1250-longest-common-subsequence) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
