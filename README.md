@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
