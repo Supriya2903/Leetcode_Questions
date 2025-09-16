@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3462-vowels-game-in-a-string) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Geometry
 |  |
 | ------- |
@@ -200,4 +203,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
