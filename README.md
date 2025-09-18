@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3678-design-task-manager](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3678-design-task-manager) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [3678-design-task-manager](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3678-design-task-manager) |
 ## Stack
 |  |
 | ------- |
@@ -207,4 +209,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Design
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3678-design-task-manager) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
