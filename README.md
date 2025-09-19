@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3678-design-task-manager](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1036-rotting-oranges) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 ## Linked List
 |  |
 | ------- |
@@ -213,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
