@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2023-design-movie-rental-system](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3827-implement-router) |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3678-design-task-manager) |
 ## Stack
 |  |
@@ -220,12 +223,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
