@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1250-longest-common-subsequence) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0009-palindrome-number) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
