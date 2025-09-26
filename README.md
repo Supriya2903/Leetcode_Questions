@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1036-rotting-oranges) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
+| [0611-valid-triangle-number](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0242-valid-anagram) |
+| [0611-valid-triangle-number](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -111,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0792-binary-search) |
 | [3827-implement-router](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3827-implement-router) |
 ## Matrix
@@ -187,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0611-valid-triangle-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
