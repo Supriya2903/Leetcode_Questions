@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0830-largest-triangle-area](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1036-rotting-oranges) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1917-maximum-average-pass-ratio) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1250-longest-common-subsequence) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Prefix Sum
