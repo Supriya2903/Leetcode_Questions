@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0036-valid-sudoku) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0075-sort-colors) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
