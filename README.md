@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1036-rotting-oranges) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1612-avoid-flood-in-the-city](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2023-design-movie-rental-system) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1612-avoid-flood-in-the-city](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2023-design-movie-rental-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [3827-implement-router](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3827-implement-router) |
 ## Matrix
 |  |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1612-avoid-flood-in-the-city](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
@@ -227,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3678-design-task-manager) |
