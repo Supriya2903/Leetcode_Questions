@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Divide and Conquer
 |  |
