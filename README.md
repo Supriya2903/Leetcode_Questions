@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3797-design-spreadsheet](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3678-design-task-manager](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1036-rotting-oranges) |
+| [3863-power-grid-maintenance](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
@@ -318,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2023-design-movie-rental-system](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3863-power-grid-maintenance) |
 ## Counting
 |  |
 | ------- |
@@ -334,12 +339,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
