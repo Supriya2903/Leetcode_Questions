@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1250-longest-common-subsequence) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Supriya2903/Leetcode_Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Queue
@@ -359,4 +361,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/Supriya2903/Leetcode_Questions/tree/master/3863-power-grid-maintenance) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
