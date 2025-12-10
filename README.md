@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0830-largest-triangle-area) |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
