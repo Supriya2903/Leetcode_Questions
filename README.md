@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0049-group-anagrams) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0165-compare-version-numbers) |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/Supriya2903/Leetcode_Questions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Supriya2903/Leetcode_Questions/tree/master/1018-largest-perimeter-triangle) |
